@@ -1,5 +1,21 @@
 [
 	{
+		"file": "E:\\ue\\Golf\\Source\\Golf\\BallPawnBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\ue\\Golf\\.vscode\\compileCommands_Default\\Golf.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\ue\\Golf\\Source\\Golf\\BallPawnBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\ue\\Golf\\.vscode\\compileCommands_Default\\Golf.1.rsp"
+		],
+		"directory": "D:\\ue_\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "E:\\ue\\Golf\\Source\\Golf\\Golf.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
